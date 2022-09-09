@@ -1,0 +1,50 @@
+<resources>
+
+    //outros
+
+    <string name="app_name">magiquinhapog</string>=
+    <string name="voltartext0">Voltar</string>
+    //bola8
+    <string name="textobola8id">Bola 8</string>
+    <string name="textotarotid">Tarô</string>
+    <string name="textocuelho">Truque do coelho</string>
+    <string name="textogps">Adivinha</string>
+    <string name="textomexernacartola">Mexer na cartola</string>
+    <string name="textocreditos">CRÉDITOS</string>
+    <string name="textomagia">Magia e Ilusão</string>
+    <string name="nao">NÃO</string>
+    <string name="sim">SIM</string>
+
+    //Cartastaro
+
+    <string name="loucotexto">O LOUCO</string>
+    <string name="magotexto">O MAGO</string>
+    <string name="papistatexto">A PAPISA</string>
+    <string name="imperatriztexto">A IMPERATRIZ</string>
+    <string name="imperadortexto">O IMPERADOR</string>
+    <string name="papatexto">O PAPA</string>
+    <string name="namoradostexto">OS NAMORADOS</string>
+    <string name="carrotexto">O CARRO</string>
+    <string name="justicatexto">A JUSTIÇA</string>
+    <string name="eremitatexto">O EREMITA</string>
+    <string name="rodadafortunatexto">A RODA DA FORTUNA</string>
+    <string name="forcatexto">A FORÇA</string>
+    <string name="penduradotexto">O PENDURADO</string>
+    <string name="mortetexto">A MORTE</string>
+    <string name="temperancatexto">A TEMPERANÇA</string>
+    <string name="diabotexto">O DIABO</string>
+    <string name="torretexto">A TORRE</string>
+    <string name="estrelatexto">A ESTRELA</string>
+    <string name="luatexto">A LUA</string>
+    <string name="soltexto">O SOL</string>
+    <string name="julgamentotexto">O JULGAMENTO</string>
+    <string name="mundotexto">O MUNDO</string>
+
+    <string name="tirarcarta">TIRAR CARTA</string>
+
+    //adivinha
+
+    <string name="textobotaogps">Adivinha</string>
+
+
+</resources>
